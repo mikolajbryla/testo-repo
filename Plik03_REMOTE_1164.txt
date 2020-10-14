@@ -1,3 +1,3 @@
-zmian07a
+zmian07b
 Dodano asystenta pomocy
 Uproszczenie interfejsu graficznego
