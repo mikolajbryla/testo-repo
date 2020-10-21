@@ -2,6 +2,6 @@ zmiana01 - zmiana06
 zmiana02 zmiana02a
 zmiana03 - zmiana07c
 zmiana04 - zmiana08
-zmiana05
+zmiana05 
 Dodano asystenta pomocy
 Uproszczenie interfejsu graficznego
