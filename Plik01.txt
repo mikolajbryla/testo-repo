@@ -3,5 +3,6 @@ zmiana02 zmiana02a
 zmiana03 - zmiana07c
 zmiana04 - zmiana10
 zmiana05 - zmiana12wclonie
+zmiana13 
 Dodano asystenta pomocy
 Uproszczenie interfejsu graficznego
